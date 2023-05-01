@@ -5,12 +5,12 @@
 
 ## 목차
 
-- [백엔드](#학습-자료)
-- [서버](#프로젝트)
+- [백엔드](#백엔드)
+- [서버](#서버)
 
 ### 백엔드
 
-- [JPA](#https://github.com/maeng24/study_BE/tree/main/JPA/readme.md)
+- [JPA](https://github.com/maeng24/study_BE/tree/main/JPA/readme.md)
 
 ### 서버
 

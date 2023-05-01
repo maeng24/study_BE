@@ -7,4 +7,4 @@
 
 ## 목차
 
-- [6강. 다양한 연관관계 매핑](#https://github.com/maeng24/study_BE/tree/main/JPA/course/다양한연관관계매핑.md)
+- [6강. 다양한 연관관계 매핑](https://github.com/maeng24/study_BE/tree/main/JPA/course/다양한연관관계매핑.md)
