@@ -10,7 +10,7 @@
 
 ### 백엔드
 
-- [JPA](https://github.com/maeng24/study_BE/tree/main/JPA/readme.md)
+- [JPA](https://github.com/maeng24/study_BE/tree/main/JPA)
 
 ### 서버
 
